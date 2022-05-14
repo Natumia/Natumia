@@ -14,8 +14,6 @@ Godot, Aseprite, Animation, Editing, being more charismatic.
 
 Twitter - https://twitter.com/NatumiaDormin
 
-Twitch - https://www.twitch.tv/natumia/
-
 YouTube - https://www.youtube.com/natumiadormin
 
 Discord - https://discord.gg/cUd95YWPnQ
