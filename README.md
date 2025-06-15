@@ -14,6 +14,6 @@ Godot, Aseprite, Animation, Editing, being more charismatic.
 
 BlueSky - https://bsky.app/profile/natumia.bsky.social
 
-YouTube - https://www.youtube.com/@Natmia
+YouTube - https://www.youtube.com/@Natumia
 
 Discord - Natumia
